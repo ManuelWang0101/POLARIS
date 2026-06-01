@@ -108,5 +108,5 @@ POLARIS is an **independent research project**. It uses Hudl StatsBomb J1 League
 
 ## Author
 
-**Mufan Wang** — PhD researcher in biostatistics, working on causal inference and football analytics.
+**Mufan Wang** — PhD researcher, working on causal inference and football analytics.
 GitHub: [@ManuelWang0101](https://github.com/ManuelWang0101)
